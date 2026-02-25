@@ -1,0 +1,13 @@
+# Blender 5.0.1 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl material_0
+Ns 454.482635
+Ka 0.105467 0.105467 0.105467
+Kd 0.800000 0.800000 0.800000
+Ks 0.071623 0.071623 0.071623
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cityjet_texture.png
